@@ -8,7 +8,7 @@
 
 - 总共 **7** 个
 
-![](https://raw.githubusercontent.com/GalAster/DoNotCountingSquares/master/Tasks/Task-2/Size-1.SVG)
+![](./Size-1.SVG)
 
 ## Area = 4
 
