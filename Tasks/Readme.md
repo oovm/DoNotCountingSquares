@@ -2,7 +2,7 @@
 
 ---
 
-![](./Task-1/Task.PNG)
+![](Task-1/show-1.png)
 
 [>> 点击查看答案](./Task-1)
 
